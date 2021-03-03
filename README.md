@@ -1,7 +1,7 @@
 # Contact Keeper
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication. 
-# DemoLink
+# Link
 https://contact8.herokuapp.com/
 
 
